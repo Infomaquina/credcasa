@@ -1,0 +1,230 @@
+.btn-success, .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .btn-success.focus, .btn-success:active, .btn-success:focus, .btn-success:hover, .open>.dropdown-toggle.btn-success {
+    background: rgb(164,21,145) !important;
+    background: linear-gradient(101deg, rgba(164,21,145,1) 25%, rgba(203,17,128,1) 50%, rgba(243,139,59,1) 100%) !important;
+    border: 0 !important;
+    border-radius:100px !important;
+}
+
+.panel-heading.bg-img {
+    text-align: center;
+    background: #241249;
+}
+
+body.login .form-group .checkbox label {
+    color: #eae5dd;
+}
+
+body.login .panel a {
+    color: #f38b3b;
+}
+
+body.login .panel .logo img {
+    width: 220px;
+}
+
+body.login .panel .panel-body{
+    padding-top:20px;
+}
+
+body.login .panel .logo{
+    padding-top:18px;
+}
+
+.btn-primary, 
+.btn-primary:hover, 
+.btn-primary:focus, 
+.btn-primary:active, 
+.btn-primary.active, 
+.btn-primary.focus, 
+.btn-primary:active, 
+.btn-primary:focus, 
+.btn-primary:hover, 
+.open>.dropdown-toggle.btn-primary{
+    background: rgb(164,21,145);
+    background: linear-gradient(101deg, rgba(164,21,145,1) 25%, rgba(203,17,128,1) 50%, rgba(243,139,59,1) 100%);    
+    border:0;
+}
+
+#bt-recuperar-senha {
+    height:46px
+}
+
+.actions-steps .bt-voltar{
+    color:#25124a !important;
+}
+
+.actions-steps .bt-voltar:hover{
+    color:#fff !important;
+}
+
+.badge-danger {
+    background-color: #cb1180;
+}
+
+.bg-primary,
+.progress-bar-primary{
+    background-color: #a41591;
+}
+
+.bg-info,
+.progress-bar-info{
+    background-color: #cb1180;
+}
+
+.bg-success,
+.progress-bar-success{
+    background-color: #009688;
+}
+
+.bg-success,
+.progress-bar-success{
+    /* background-color: #f38b3b; */
+}
+
+.breadcrumb a {
+    color:#cb1180;
+}
+
+/*
+body {
+    background: url(../images/bg4.jpg)no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+*/
+
+img.logo-name {
+    width:125px;
+    margin-top:-5px;
+}
+
+#wrapper.enlarged img.logo-name{
+    display:none;
+}
+
+ul.list-videos a {
+    color:#cb1180;
+}
+
+.label{
+    border-radius:100px;
+}
+
+.btn{
+    border-radius:100px !important;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover, .tabs-vertical>li.active>a, .tabs-vertical>li.active>a:focus, .tabs-vertical>li.active>a:hover{
+        color: #a41591 !important;
+}
+
+li.active.tab {
+    border-bottom: 3px solid #a41591;
+}
+
+.nav.nav-tabs>li>a:hover, .nav.tabs-vertical>li>a:hover {
+    color: #a41591 !important;
+}
+
+.btn-purple, .btn-purple:hover, .btn-purple:focus, .btn-purple:active{
+    background:#a41591;
+    border:#a41591;
+}
+
+.btn-info, .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .btn-info.focus, .btn-info:active, .btn-info:focus, .btn-info:hover, .open>.dropdown-toggle.btn-info{
+    background:#f17448;
+    border:#f17448;    
+}
+
+.panel-heading a{
+    color:#cb1180;
+}
+
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    background-color: #f17448;
+    border-color: #f17448;
+}
+
+.actions .fa-pencil {
+    color: #1d1d1b;
+}
+
+.actions .fa-trash-o, .actions .fa-times {
+    color: #cb1180;
+}
+
+.label.label-01 {
+    background-color: #a41591;
+}
+
+.label.label-02 {
+    background-color: #cb1180;
+}
+
+.label.label-03 {
+    background-color: #607D8B;
+}
+
+.label.label-04 {
+    background-color: #131414;
+}
+
+.label-success {
+    background-color: #009688;
+}
+
+.label-info {
+    background-color: #a41591;
+}
+
+.dados-do-lead a,
+.dados-do-lead a:hover,
+.modal-header:hover{
+    color:#cb1180;
+}
+
+.alerta i {
+    color: #cb1180 !important;
+}
+
+.box-show-comentarios .item p.username {
+    color: #cb1180 !important;
+}
+
+.badge-danger {
+    background-color: #cb1180 !important;
+}
+
+#sidebar-menu ul ul a:hover {
+    color: #cb1180 !important;
+}
+
+.bt-buscar-termo {
+    border-radius: 3px !important;
+    border-top-left-radius:0 !important;
+    border-bottom-left-radius:0 !important;
+    height:46px;
+}
+
+input#termo-busca {
+    /* border-radius:100px; */
+    border-top-right-radius:0 !important;
+    border-bottom-right-radius:0 !important;
+}
+
+.select2-container .select2-selection--single{
+    /*border-radius:100px;*/
+}
+
+.bg-warning,
+.progress-bar-warning{
+    background:#f17448;
+}
+
+#modal-add-financiamento .bt-atualizar-chat {
+    color:#cb1180;
+}
+
+#modal-add-financiamento .actions-steps .bt-voltar {
+    color: #fff !important;
+}
