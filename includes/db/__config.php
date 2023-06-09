@@ -2,10 +2,10 @@
 
 define('HOST', 'localhost');
 define('DB_NAME', 'credcasa_teste');//nome do seu banco de dados
-// define('USER', 'semsenha');//login do seu banco de dados
-// define('PASS', '');//senha do seu banco de dados
-define('USER', 'root');//alterado
-define('PASS', '6364');//alterado
+define('USER', 'semsenha');//login do seu banco de dados
+define('PASS', '');//senha do seu banco de dados
+// define('USER', 'root');//pessoal
+// define('PASS', '6364');//pessoal
 
 $dns = 'mysql:host='.HOST.';dbname='.DB_NAME;
 
